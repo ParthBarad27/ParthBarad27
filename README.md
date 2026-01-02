@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="260"/>
 
 <h1 align="center">Hi 👋, I'm Parth Barad
-align="center">
   <a href="https://git.io/typing-svg">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=500&lines=AI%2FML+Enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%8C%90;Software+Developer+%F0%9F%9A%80" 
