@@ -73,8 +73,6 @@
 
 ---
 ### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ParthBarad27&theme=flat&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
-         
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParthBarad27&show_icons=true&theme=radical" />
+</div>
